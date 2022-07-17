@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj09&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj09" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekraj09" alt="abhishekraj09" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/abhishek6209" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek6209?logo=twitter&style=for-the-badge" alt="abhishek6209" /></a> </p>
 
 - 🔭 I’m currently working on **Linux**
@@ -19,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/abhishek6209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek6209" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekraj707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekraj707" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhishek_raj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek_raj001" height="30" width="40" /></a>
 <a href="https://discord.gg/abhishek08#7996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhishek08#7996" height="30" width="40" /></a>
 </p>
 
