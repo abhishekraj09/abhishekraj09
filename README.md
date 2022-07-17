@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/abhishek6209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek6209" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekraj707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekraj707" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishek_raj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek_raj001" height="30" width="40" /></a>
 <a href="https://discord.gg/abhishek08#7996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhishek08#7996" height="30" width="40" /></a>
 </p>
 
