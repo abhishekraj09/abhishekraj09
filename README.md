@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj09&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj09" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 💬 Ask me about **Python Html Css javascipt linux**
+- 💬 Ask me about **Python Html Css javascipt linux Sql**
 
 - 📫 How to reach me **abhishekkumarbxr101@gmail.com**
 
