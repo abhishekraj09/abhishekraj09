@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek6209" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek6209?logo=twitter&style=for-the-badge" alt="abhishek6209" /></a> </p>
   
-  -🔭 I’m currently Working on **Linux**
+ -🔭 I’m currently Working on **Linux**
   
 -🌱 I’m currently learning **reactjs,linux**
   
 -👯 I’m looking to collaborate on **Open source**
-  
+
 -💬 Ask me about **Python Html Css javascipt linux Sql**
 
 <h3 align="left">Connect with me:</h3>
