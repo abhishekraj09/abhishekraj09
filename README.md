@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">A passionate full Stack developer from India
+<h3 align="center">A Passionate full Stack Developer From India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj09&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekraj09" alt="abhishekraj09" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishek6209" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek6209?logo=twitter&style=for-the-badge" alt="abhishek6209" /></a> </p>
-
-- 🔭 I’m currently working on **Linux**
-
-- 🌱 I’m currently learning **reactjs,linux**
-
-- 👯 I’m looking to collaborate on **Open source**
-
-- 💬 Ask me about **Python Html Css javascipt linux Sql**
-
-- 📫 How to reach me **abhishekkumarbxr101@gmail.com**
+  
+-🔭 I’m currently working on **Linux**
+  
+-🌱 I’m currently learning **reactjs,linux**
+  
+-👯 I’m looking to collaborate on **Open source**
+  
+-💬 Ask me about **Python Html Css javascipt linux Sql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
