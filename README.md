@@ -9,7 +9,7 @@
   
 -🔭 I’m currently working on **Linux**
   
--🌱 I’m currently learning **reactjs,linux**
+ -🌱 I’m currently learning **reactjs,linux**
   
 -👯 I’m looking to collaborate on **Open source**
   
