@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek6209" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek6209?logo=twitter&style=for-the-badge" alt="abhishek6209" /></a> </p>
   
--🔭 I’m currently working on **Linux**
+  -🔭 I’m currently Working on **Linux**
   
- -🌱 I’m currently learning **reactjs,linux**
+-🌱 I’m currently learning **reactjs,linux**
   
 -👯 I’m looking to collaborate on **Open source**
   
