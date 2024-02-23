@@ -6,11 +6,11 @@
    
  -🔭 I’m currently Working on **java**
   
- -🌱 I’m currently learning **reactjs,linux**
+-🌱 I’m currently learning **reactjs,linux**
   
-  -👯 I’m looking to collaborate on **Open source**
+-👯 I’m looking to collaborate on **Open source**
 
-  -💬 Ask me about **Python Html Css javascipt linux Sql**
+-💬 Ask me about **Python Html Css javascipt linux Sql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
