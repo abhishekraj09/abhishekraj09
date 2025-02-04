@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
-<h3 align="center">A Passionate full Stack Developer From India
+<h3 align="center">A Passionate full Stack Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj09&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj09" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekraj09" alt="abhishekraj09" /></a> </p>
 <p align="left"> <a href="https://twitter.com/abhishek6209" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek6209?logo=twitter&style=for-the-badge" alt="abhishek6209" /></a> </p>
